@@ -1,0 +1,13 @@
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\obj\Debug\netcoreapp3.1\NotasMusicais.csprojAssemblyReference.cache
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\obj\Debug\netcoreapp3.1\NotasMusicais.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\obj\Debug\netcoreapp3.1\NotasMusicais.AssemblyInfo.cs
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\obj\Debug\netcoreapp3.1\NotasMusicais.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\bin\Debug\netcoreapp3.1\NotasMusicais.exe
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\bin\Debug\netcoreapp3.1\NotasMusicais.deps.json
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\bin\Debug\netcoreapp3.1\NotasMusicais.runtimeconfig.json
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\bin\Debug\netcoreapp3.1\NotasMusicais.runtimeconfig.dev.json
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\bin\Debug\netcoreapp3.1\NotasMusicais.dll
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\bin\Debug\netcoreapp3.1\NotasMusicais.pdb
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\obj\Debug\netcoreapp3.1\NotasMusicais.dll
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\obj\Debug\netcoreapp3.1\NotasMusicais.pdb
+C:\Users\Desenvolvimento\source\repos\NotasMusicais\NotasMusicais\obj\Debug\netcoreapp3.1\NotasMusicais.genruntimeconfig.cache
